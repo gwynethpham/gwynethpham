@@ -31,12 +31,6 @@ I'm Gwyneth Pham, a passionate full-stack JavaScript developer with extensive ex
 - **GitLab CI/CD:** Proficient in configuring CI/CD pipelines on GitLab for automating builds, tests, and deployments.
 - **AWS Amplify:** Skilled in leveraging AWS Amplify for automating the deployment of web application.
 
-
-## Education
-
-- **Bachelor's degree, Electrical and Electronics Engineering**, VNUHCM - University of Science, 2018
-
-
 ## 🔥 GitHub stats:
 <!-- GitHub Readme Streak Stats -->
 <!-- Ref: https://github.com/anuraghazra/github-readme-stats -->
@@ -52,16 +46,20 @@ I'm Gwyneth Pham, a passionate full-stack JavaScript developer with extensive ex
   <a href="https://github.com/gwynethpham"><img alt="gwyneth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwynethpham&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages <b>my public code</b> consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{gwynethpham}/count.svg/" alt="Gwyneth Visitor's count" /></p>
 
+## Education
+
+- **Bachelor's degree, Electrical and Electronics Engineering**, VNUHCM - University of Science, 2018
+
 ## Contact Me
-- 📧 Email: tanpham.dev0096@gmail.com
-- <img src="https://skillicons.dev/icons?i=linkedin" style="width: 15px; position: relative; top: 2px" /> LinkedIn: https://www.linkedin.com/in/tan-pham-735938216
+- 📧 Email: gwyneth.pmt@gmail.com
+- <img src="https://skillicons.dev/icons?i=linkedin" style="width: 15px; position: relative; top: 2px" /> LinkedIn: https://www.linkedin.com/in/gwyneth-pham/
 - 🌐 Website: https://tanpham.netlify.app
 
 📝 ***Feel free to reach out to discuss potential collaborations or opportunities☺️. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/gwynethpham?label=Follow%20Me&style=social)](https://github.com/gwynethpham)
